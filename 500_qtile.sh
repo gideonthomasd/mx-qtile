@@ -69,10 +69,12 @@ cd BeautyLine
 cp -r * ~/.icons/BeautyLine
 cd ..
 
+tar -xzvf kora.tar.gz
 tar -xzvf candy-icons.tar.gz
 tar -xzvf Dracula.tar.gz
 tar -xzvf Sweet-Dark.tar.gz
 
+cp -r kora ~/.icons/kora
 cp -r candy-icons ~/.icons/candy-icons
 cp -r Dracula ~/.themes/Dracula
 cp -r Sweet-Dark ~/.themes/Sweet-Dark
