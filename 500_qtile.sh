@@ -2,6 +2,7 @@
 
 sudo apt install feh pulseaudio neofetch sxhkd curl dmenu rofi pcmanfm picom lxtask lxappearance lxpolkit aptitude moc lxterminal geany fonts-jetbrains-mono htop parcellite calcurse feh xterm lolcat font-manager gsimplecal -y
 sudo apt install jgmenu fonts-ubuntu fonts-ubuntu-console r-cran-fontawesome fonts-font-awesome fonts-fork-awesome fonts-powerline font-manager dmenu pavucontrol gdebi gdebi-core yt-dlp gnome-terminal i3lock-fancy -y
+sudo apt install python3-psutil -y 
 
 mkdir -p ~/.config/qtile
 cd qtile
